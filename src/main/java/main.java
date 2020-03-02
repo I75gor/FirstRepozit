@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class main {
@@ -14,10 +15,4 @@ public class main {
 
     }
 }
-/*try {
-            Integer.valueOf(str);
-        } catch (Exception ex) {
-            System.out.println(str);
 
-            System.out.println("Ha-ha poymal");
-        }  ctrl+slash - КОМЕНТАРИИ*/
